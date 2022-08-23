@@ -8,7 +8,7 @@ fun main()
     var byte:Byte=12
     var char:Char='D'
     var bool:Boolean=true
-    var string:String="PKU"
+    var string:String="JAYDIP"
 
     println("Integer: $int")
     println("Double: $doub")
